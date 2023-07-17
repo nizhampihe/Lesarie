@@ -62,14 +62,15 @@ Pada tahap ini saya akan membuat tata letak dari permainan Tetris -> . Adapun ta
     </body>
   </html>
   ```
-- Lalu berikutnya klik pada kode `<div id="board"></div>`, kemudian pada bagian bawah pada tab style tuliskan kode **CSS** berikut sehingga kodenya menjadi
+- Lalu berikutnya klik pada kode `<div id="board"></div>`, kemudian pada bagian bawah pada tab style tuliskan kode **CSS** pada blok `element.style` yang kemudian diisi dengan 
+berikut sehingga kodenya menjadi
   ```css
   element.style {
-    box-sizing: border-box;
+    width: 200px;
+    height: 400px;
     display: flex;
     flex-wrap: wrap;
-    height: 400px;
-    width: 200px;
+    box-sizing: border-box;
     border: 10px solid black;
   }
   ```
