@@ -4,6 +4,8 @@ title: Tetris
 description: Tutorial bikin Tetris
 ---
 
+[<kembali](../)
+
 # Tetris
 
 Kali ini saya akan menunjukan cara untuk membuat permainan Tetris di dalam suatu Browser, meskipun saya bilang akan membuatnya di dalam Browser namun sebenarnya untuk membuatnya tidak membutuhkan koneksi internet sama sekali dan hanya mengandalkan fitur Developer Tools yang terdapat pada Browser.
