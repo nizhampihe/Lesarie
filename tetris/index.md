@@ -1,3 +1,9 @@
+---
+layout: default
+title: Tetris
+description: Tutorial bikin Tetris
+---
+
 # Tetris
 
 Kali ini saya akan menunjukan cara untuk membuat permainan Tetris di dalam suatu Browser, meskipun saya bilang akan membuatnya di dalam Browser namun sebenarnya untuk membuatnya tidak membutuhkan koneksi internet sama sekali dan hanya mengandalkan fitur Developer Tools yang terdapat pada Browser.
@@ -41,8 +47,7 @@ Pada tahap ini saya akan membuat tata letak dari permainan Tetris -> . Adapun ta
 - Berikutnya silahkan klik kanan menggunakan mouse lalu pilih `Inspect` atau tekan tombol `Ctrl` + `Shift` + `I` pada keyboard secara bersamaan. Kemudian Browser akan memunculkan panel Developer Tools yang akan didgunaakan untuk memanipulasi halaman.
 - Selanjutnya bukan tab `Element` disana terdapat kode **HTML**, silahkan klik kanan pada kode `<body></body>` kemudian pilih `Edit as HTML`, Kemudian ketikan kode berikut
   ```html
-  Score: <span id="score"></span>
-  <div id="board"></div>
+  Score: <span id="score"></span><div id="board"></div>
   ```
   sehingga kodenya menjadi
   ```html
