@@ -1,13 +1,7 @@
----
-layout: default
-title: Mulanie
-description: Kumpulan Artikel (Mulanie)
----
-
 # Mulanie
 
 Ku**m**p**ulan** Art**i**k**e**l (Mulanie)
 
 # Artikel
 
-- [Tetris](./tetris/)
+- Membuat Tetris dengan Browser <br> [Baca selengkapnya>](./post/tetris.html)
