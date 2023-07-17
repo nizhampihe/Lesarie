@@ -4,7 +4,7 @@ title: Tetris
 description: Tutorial bikin Tetris
 ---
 
-[<kembali](../)
+[Halaman Utama](https://nizhampihe.github.io/Mulanie) / [posts](https://nizhampihe.github.io/Mulanie/posts) / tetris
 
 # Tetris
 
