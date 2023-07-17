@@ -20,7 +20,7 @@ Hal yang perlu disiapkan untuk membuat permainan Tetris yaitu diantaranya adalah
 
   Saya sarankan untuk tidak menggunkakan Sistem Operasi android karena Browser pada Sistem Operasi tersebut biasanya tidak memiliki fitur Developer Tools.
 
-- Bowser
+- Browser
 
   Saya menyarankan untuk menggunakan Google Chrome karena itu Browser yang saya gunakan dalam pembahasan ini.
 
