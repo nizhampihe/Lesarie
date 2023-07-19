@@ -4,7 +4,7 @@ title: Tetris
 description: Tutorial bikin Tetris
 ---
 
-[Halaman Utama](https://nizhampihe.github.io/Mulanie) / [posts](https://nizhampihe.github.io/Mulanie/posts) / tetris
+[Halaman Utama](https://nizhampihe.github.io/Lesarie) / [posts](https://nizhampihe.github.io/Lesarie/posts) / tetris
 
 # Tetris
 
@@ -14,7 +14,7 @@ Kali ini saya akan menunjukan cara untuk membuat permainan Tetris di dalam suatu
 
 Hal yang perlu disiapkan untuk membuat permainan Tetris yaitu diantaranya adalah.
 
-- Desktop (Laptop/PC)
+- Desktop (Laptop/PC/Komputer)
 
   Saya sarankan untuk tidak menggunkakan perangkat HP/Smartphone karena akan sulit untuk kedepannya.
 
@@ -39,7 +39,9 @@ dengan menerapkan salah satu konsep dari Computational Thinking yaitu Decomposit
 
 ## Layouting
 
-Pada tahap ini saya akan membuat tata letak dari permainan Tetris -> . Adapun tahapannya adalah sebagai berikut
+Tujuan dari tahapan ini yaitu untuk membuat tata letak antarmuka pengguna yang terdiri dari kolom skor dan papan permainan. Papan permainan yang akan dibuat memiliki ukuran yang umum untuk permainan Tetris yaitu memiliki tinggi **20** _petak_ dan lebar **10** _petak_. -> 
+
+Adapun tahapan untuk membuat nya yaitu adalah sebagai berikut
 
 - Pertama silahkan buka terlebih dahulu Browser yang digunakan kemudian ketikan alamat berikut pada kolom URL kemudian tekan `Enter`.
   ```
@@ -62,8 +64,10 @@ Pada tahap ini saya akan membuat tata letak dari permainan Tetris -> . Adapun ta
     </body>
   </html>
   ```
-- Lalu berikutnya klik pada kode `<div id="board"></div>`, kemudian pada bagian bawah pada tab style tuliskan kode **CSS** pada blok `element.style` yang kemudian diisi dengan 
-berikut sehingga kodenya menjadi
+- Lalu berikutnya klik pada kode `<div id="board"></div>`, kemudian pada bagian bawah pada tab `Styles` tuliskan kode **CSS** pada blok `element.style` yang kemudian diisi dengan beberapa kode untuk _styling_ papan permainan yaitu diantaranya adalah sebagai berikut
+  - yang pertama yaitu adalah ukuran dari papan 
+  
+  berikut sehingga kodenya menjadi
   ```css
   element.style {
     width: 200px;
@@ -74,3 +78,12 @@ berikut sehingga kodenya menjadi
     border: 10px solid black;
   }
   ```
+## Object
+
+## Action
+
+## Game Loop
+
+## Conclution
+
+[Kembali ke Atas>](#tetris)
