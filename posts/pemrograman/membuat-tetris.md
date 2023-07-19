@@ -4,7 +4,9 @@ title: Tetris
 description: Tutorial bikin Tetris
 ---
 
-[Halaman Utama](https://nizhampihe.github.io/Lesarie) / [posts](https://nizhampihe.github.io/Lesarie/posts) / tetris
+[Beranda](https://nizhampihe.github.io/Lesarie) / [Posts](https://nizhampihe.github.io/Lesarie/posts) / [Pemrograman](https://nizhampihe.github.io/Lesarie/posts/pemrograman) / tetris
+
+> Kata Kunci: [Pemrograman](https://nizhampihe.github.io/Lesarie/posts/pemrograman), Web, Game, Tetris
 
 # Tetris
 

@@ -8,6 +8,11 @@ Lesarie atau yang merupakan singkatan dari Ko**le**k**s**i **Ar**t**i**k**e**l a
 
 Untuk repositorinya dapat dibuka melalui [link berikut](https://github.com/nizhampihe/Lesarie) yang semua artikelnya berada pada direktori `/posts`.
 
-## [Daftar Artikel](https://nizhampihe.github.io/Lesarie/posts)
+## [Artikel Teratas](https://nizhampihe.github.io/Lesarie/posts)
 
-- Membuat Tetris dengan Browser <br> [Baca selengkapnya>](https://nizhampihe.github.io/Lesarie/posts/tetris.html)
+- Membuat Tetris dengan Browser <br> [Baca selengkapnya>](https://nizhampihe.github.io/Lesarie/posts/pemrograman/membuat-tetris.html)
+
+## Daftar Kategori
+
+- [Pemrograman](https://nizhampihe.github.io/Lesarie/posts/pemrograman)
+- [Matematika]()
